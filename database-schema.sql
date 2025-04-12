@@ -1,3 +1,7 @@
+create database db_batch6_obms;
+
+use db_batch6_obms;
+
 -- Table: Users
 CREATE TABLE Users (
 	user_id INT PRIMARY KEY AUTO_INCREMENT,
